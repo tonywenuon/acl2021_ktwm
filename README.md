@@ -7,11 +7,12 @@ This work is the implementation of the paper [*Knowledge-Grounded Dialogue Gener
 
 ## Data Format
 In the data folder, all of the datasets are put there. The directionary lever should be like:
--data
---wizard
----train
----valid
----test
+* -data
+* --wizard
+* ---train
+* ---valid
+* ---test
+</br>
 For details and data format, referring to the data folder.
 
 
